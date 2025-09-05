@@ -3,5 +3,6 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "cmake.sourceDirectory": "C:/Coding/React_Native/Todo-mobile-app/node_modules/expo-modules-core/android"
 }
